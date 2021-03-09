@@ -1,6 +1,6 @@
 # Diffusion Equation Solver
 
-This is a solver for the diffusion equation I made for fun in jupyter labs.
+This is a 2D solver for the diffusion equation I made for fun in jupyter labs.
 
 everything is explained inside the jupyter notebook
 
