@@ -1,4 +1,4 @@
-# Diffusion Equation Solver
+# Heat Equation Solver
 
 This is a 2D solver for the heat equation I made for fun in jupyter labs.
 
